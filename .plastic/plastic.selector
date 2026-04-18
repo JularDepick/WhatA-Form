@@ -1,0 +1,4 @@
+repository "WhatA-Farm@tj_julardepick@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
